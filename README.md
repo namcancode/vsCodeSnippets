@@ -39,11 +39,24 @@ Below is a list of all available snippets and the triggers of each one. The **�
 | `settimeout`   | set timeout helper method `setTimeout(() => {});` |
 | `then→` | adds then and catch declaration to a promise `then((rs) => {)`|
 
+### Function methods
+| Trigger  | Content |
+| -------: | ------- |
+| `f`   | Arrow Function `(argument) => {}`|
+| `fn`   | Function normal `function name(argument) =>{}` |
+| `fa`   | Async function `async function(argument) {}` |
+| `fan`   | async Arrow function `async () => {}` |
+
+### Other methods
+| Trigger  | Content |
+| -------: | ------- |
+| `rqr`   | require('package') |
+
 ### Console methods
 | Trigger  | Content |
 | -------: | ------- |
 | `clg→`   | console log `console.log()` |
-| `clo→`   | console log variable with name `console.log('variable :', variable);` |
+| `clo→`   | console log variable with message `console.log('variable :', variable);` |
 | `c→`   | console other `console.()` |
 
 [code]: https://code.visualstudio.com/
