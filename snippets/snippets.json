@@ -80,12 +80,12 @@
     "description": "Nam-Export default class in ES6 syntax"
   },
   "setInterval": {
-    "prefix": "setInterval",
+    "prefix": "setinterval",
     "body": "setInterval(() => {\n\t${2}\n}, ${0:time})",
     "description": "Nam-Executes the given function at specified intervals in ES6 syntax"
   },
   "setTimeOut": {
-    "prefix": "setTimeOut",
+    "prefix": "settimeOut",
     "body": "setTimeout(() => {\n\t${2}\n}, ${1:time})",
     "description": "Nam-Executes the given function after the specified delay in ES6 syntax"
   },
