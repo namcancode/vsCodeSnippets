@@ -1,8 +1,8 @@
 {
   "name": "snippetsNam",
-  "description": "Snippets for JavaScript ES6",
-  "version": "1.0.2",
-  "displayName": "JavaScript code snippets by namDev",
+  "description": "Snippets for JavaScript ES6 very simple",
+  "version": "1.0.3",
+  "displayName": "JavaScript code snippets very simple",
   "publisher": "namDev",
   "icon": "images/logo.png",
   "license": "SEE LICENSE IN LICENSE.md",
