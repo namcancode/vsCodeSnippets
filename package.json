@@ -1,7 +1,7 @@
 {
   "name": "snippetsNam",
   "description": "Snippets for JavaScript ES6 very simple",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "displayName": "JavaScript code snippets very simple",
   "publisher": "namDev",
   "icon": "images/logo.png",
@@ -14,7 +14,9 @@
     "vscode": "0.10.x"
   },
   "categories": [
-    "Snippets"
+    "Snippets",
+    "javascript",
+    "es6"
   ],
   "contributes": {
     "snippets": [

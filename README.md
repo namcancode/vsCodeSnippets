@@ -29,12 +29,6 @@ Below is a list of all available snippets and the triggers of each one. The **â‡
 | `exd`   | export  module `export default name`|
 | `exc`   | export default class `export default className {}`|
 
-### Import and export
-| Trigger  | Content |
-| -------: | ------- |
-| `impâ†’`   | imports entire module `import moduleName from 'module';`|
-
-
 ### Various methods
 | Trigger  | Content |
 | -------: | ------- |
