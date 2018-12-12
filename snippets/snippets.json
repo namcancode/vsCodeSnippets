@@ -93,5 +93,15 @@
     "prefix": "then",
     "body": "then((${1:rs}) => {\n\t${0}\n})",
     "description": "Nam-then promise"
+  },
+  "const": {
+    "prefix": "con",
+    "body": "const ${1:name} = ${0}",
+    "description": "Nam-const"
+  },
+  "let": {
+    "prefix": "let",
+    "body": "let ${1:name} = ${0}",
+    "description": "Nam-const"
   }
 }
