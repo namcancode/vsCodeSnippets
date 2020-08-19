@@ -44,6 +44,11 @@
     "body": ["console.log(${0})"],
     "description": "Nam-console log normal"
   },
+  "Console_log_webstorm": {
+    "prefix": "log",
+    "body": ["console.log(${0})"],
+    "description": "Nam-console log webstorm"
+  },
   "Console_log_message": {
     "prefix": "clo",
     "body": ["console.log('${1:variable}: ', ${1:variable})"],
